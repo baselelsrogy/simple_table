@@ -75,6 +75,19 @@ caption {
   font-size: 25px;
   letter-spacing: 5px;
   color: white;
+
+  caption:hover {
+  background-color: #03a9f4;
+}
+
+table thead td:hover {
+  background-color: #03a9f4;
+}
+
+tbody td:hover {
+  background-color: #959899;
+}
+
   background-color: #404040;
   width: 200px;
   border-radius: 5px;
